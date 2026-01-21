@@ -2,6 +2,7 @@ baseURL = 'https://gergobalogh.me/'
 languageCode = 'en-us'
 title = 'Gergő Balogh'
 theme = 'PaperMod'
+publishDir = 'docs'
 
 [params]
   env = "production"
